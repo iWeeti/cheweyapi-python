@@ -1,0 +1,8 @@
+setup.py
+chewey/__init__.py
+chewey/chewey.py
+cheweyapi.egg-info/PKG-INFO
+cheweyapi.egg-info/SOURCES.txt
+cheweyapi.egg-info/dependency_links.txt
+cheweyapi.egg-info/not-zip-safe
+cheweyapi.egg-info/top_level.txt
